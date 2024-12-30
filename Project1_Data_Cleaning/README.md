@@ -2,18 +2,17 @@
 
 This project focuses on cleaning and preprocessing a raw dataset to make it ready for analysis. 
 
-The dataset used represents online retail transactions, including customer information, product details, and sales data. The main goal was to transform messy and incomplete data into a structured and reliable format.
+The dataset used represents e-commerce transactions, including customer demographics, product categories, and purchase information. The main goal was to transform incomplete and messy data into a structured and reliable format for business insights.
 
-### Key highlights:
-- Identified and addressed missing values, duplicates, and outliers.
-- Standardized data formats, such as dates and text fields.
-- Created new features to enhance the dataset's usability.
-- Developed a reproducible cleaning pipeline for future use.
+### Key Highlights:
+- **Data Quality:** Identified and resolved missing values, duplicates, and outliers.
+- **Standardization:** Ensured consistent formats for dates, text fields, and numeric values.
+- **Feature Engineering:** Enhanced the dataset's utility by creating meaningful derived features.
+- **Reproducibility:** Developed a clear and reusable data cleaning pipeline.
 
-### Tools:
-Python, Pandas, and Jupyter Notebook were used to perform the cleaning tasks.
+### Tools Used:
+- **Python Libraries:** Pandas, NumPy, and Matplotlib for data manipulation and visualization.
+- **Jupyter Notebook:** For an interactive and well-documented workflow.
 
 ### Results:
-The cleaned dataset is now fully prepared for further analysis and modeling. This project demonstrates my ability to work with real-world, messy datasets and apply professional data cleaning techniques.
-
-**Note**: This project demonstrates my ability to work with messy real-world data and apply professional cleaning techniques.
+The cleaned dataset is now fully prepared for further analysis and modeling. Key insights include identifying customer spending patterns, understanding regional distributions, and highlighting popular product categories. This project demonstrates my ability to clean and organize real-world datasets professionally, ensuring they are ready for advanced analytics.
